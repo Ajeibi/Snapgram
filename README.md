@@ -26,7 +26,7 @@ Before you begin, ensure you have the following dependencies installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/social-media-app.git
+   git clone https://github.com/ajeibi/social-media-app.git
    ```
 
 2. Navigate to the project directory:
